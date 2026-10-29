@@ -1,1 +1,1 @@
-<!ENTITY xxe SYSTEM "file:///app/flag">
+<!ENTITY xxe SYSTEM "file:///etc/hostname">
